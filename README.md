@@ -1,10 +1,10 @@
 It is a confetti-calculator made by react js .
 
-running instructions :
-step1:Download the zip file direct from the github of my code.
-step2:Then unzip it in pc.
-step3:Now open this folder in vs code .
-step4:now type "npm run start" or "npm start" in the terminal and press enter.
+running instructions :<br>
+step1:Download the zip file direct from the github of my code.<br>
+step2:Then unzip it in pc.<br>
+step3:Now open this folder in vs code .<br>
+step4:now type "npm run start" or "npm start" in the terminal and press enter.<br>
 Now the live website will open in the browser .
 
 UI/UX is as like :
